@@ -8,7 +8,7 @@ Validation with prefix sums.
 
 ## Compilation
 
-g++ -o RandomParentheses main.cpp random_parentheses.cpp
+g++ -o random_parentheses main.cpp random_parentheses.cpp
 
 
 
